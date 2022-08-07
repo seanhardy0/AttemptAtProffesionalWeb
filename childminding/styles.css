@@ -1,0 +1,821 @@
+
+.logo{
+
+position: relative;
+bottom: -19px;
+left: -10px;
+
+
+
+    margin-top: auto;
+
+
+
+padding-left: 20px;
+padding-top: 5px;
+
+
+
+}
+
+
+
+.img1{
+position: relative;
+right: -40%;
+top: -50%;
+
+padding-top: 40px;
+
+
+}
+
+
+
+.heading1 h2{
+
+    position: relative;
+    top: -590px;
+    right: -70px;
+
+
+    font-family:Arial, Helvetica, sans-serif;
+    
+
+   
+
+    color:#333;
+
+
+    padding-left: 10px;
+
+
+
+}
+
+
+
+
+
+.heading1 h1{
+position: relative;
+top: -500px;
+
+
+padding: 20px;
+
+
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #78BE21;
+
+font-size: 35px;
+
+
+
+
+}
+
+
+
+.heading1 h3{
+position: relative;
+top: -230px;
+
+padding-left: 20px;
+
+
+color: #78BE21;
+
+font-style: italic;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+
+
+
+}
+
+
+.heading1 h4{
+
+position: relative;
+top: -545px;
+padding-left: 20px;
+
+
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: italic;
+
+}
+
+
+.para1{
+
+position: relative;
+top: -550px;
+
+padding-left: 20px;
+padding-top: 60px;
+
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+
+margin-right: 60%;
+
+word-spacing: 2px;
+
+
+color:  #333;
+
+}
+
+
+.para2{
+
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+
+.button1 a{
+position: relative;
+top: -1130px;
+right: -510px;
+
+color: rgb(51, 51, 51);
+
+list-style: none;
+
+font-weight: bold;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+
+
+float:left;
+padding: 40px;
+padding-bottom: 10px;
+
+text-shadow: #333;
+text-decoration: none;
+text-transform: none;
+
+
+
+}
+
+.button1 ul{
+
+list-style: none;
+
+text-decoration: none;
+}
+
+
+.button1 li{
+
+list-style-type: none;
+text-decoration: none;
+
+}
+
+
+a:hover{
+
+color: #78BE21;
+
+
+}
+
+a:active{
+
+color: yellow;
+
+
+}
+
+
+.services{
+
+position: relative;
+top: -420px;
+left: -200px;
+
+
+color: #287c37;
+
+font-family: Arial, Helvetica, sans-serif;
+
+
+
+
+
+
+
+}
+
+
+.duckicon{
+
+position: relative;
+top: -350px;
+left: -400px;
+
+
+
+}
+
+
+.ducktext{
+
+
+position: relative;
+top: -410px;
+right: -290px;
+
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-right: 80%;
+
+}
+
+
+.ducktext h2{
+
+color: #78BE21;
+
+
+}
+
+
+.gloveicon{
+
+position: relative;
+top: -350px;
+right: -235px;
+
+
+}
+
+.glovetext{
+
+    position: relative;
+    top: -410px;
+right: -290px;
+    
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 80%;
+    
+    
+
+
+}
+
+
+.glovetext h2{
+
+
+    color: #78BE21;
+
+
+
+}
+
+
+.locationicon{
+
+position: relative;
+top: -340px;
+right: -140px;
+
+
+
+}
+
+
+.bikeicon{
+
+position: relative;
+top: -840px;
+right: -750px;
+padding-left: 5px;
+
+
+
+
+
+}
+
+.bike{
+position: relative;
+    top: -900px;
+    right: -805px;
+
+    margin-right: 70%;
+
+
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+    
+    padding-right: 5px;
+    
+
+
+}
+
+
+.bike h2{
+
+
+color: #78BE21;
+
+
+}
+
+
+.horseicon{
+position: relative;
+top: -840px;
+right: -760px;
+
+
+
+}
+
+
+.horsetext{
+
+    position: relative;
+    top: -900px;
+    right: -820px;
+
+    margin-right: 70%;
+
+
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+    
+    padding-right: 5px;
+    
+
+}
+
+
+
+.horsetext h2{
+
+
+
+
+    color: #78BE21;
+}
+
+
+
+.image2{
+
+
+position: relative;
+top: -750px;
+left: -200px;
+padding-left: 21%;
+
+padding-top: 20px;
+
+}
+
+
+
+.getstarted{
+
+
+position: relative;
+top: -1335px;
+right: -600px;
+padding: 20px;
+
+
+}
+
+
+
+.getstarted h4{
+
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 20px;
+font-style: italic;
+
+
+
+color: #78BE21;
+
+
+}
+
+
+
+.getstarted h1{
+position: relative;
+top: -12px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+
+}
+
+
+
+.getstarted h2{
+
+position: relative;
+top: -100px;
+right: -250px;
+
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 40px;
+
+
+color: #78BE21;
+
+
+}
+
+
+
+.getstarted h5{
+
+position: relative;
+top: -110px;
+
+font-size: 40px;
+
+color: rgb(93, 93, 93);
+
+}
+
+
+.getstarted h3{
+
+position: relative;
+top: -215px;
+right: -60px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+
+
+color: #333;
+
+
+}
+
+
+.getstarted p{
+
+
+
+position: relative;
+top: -245px;
+right: -65px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+
+
+.getstarted2{
+
+
+position: relative;
+top: -1570px;
+right: -690px;
+
+
+
+}
+
+
+.getstarted2 h5{
+
+
+position: relative;
+top: -20px;
+left: -65px;
+
+
+font-size: 37px;
+
+
+color: rgb(93, 93, 93);
+
+
+}
+
+.getstarted2 h3{
+
+position: relative;
+top: -115px;
+
+
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+
+color: #333;
+
+}
+
+
+.getstarted2 p{
+
+position: relative;
+top: -140px;
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.getstarted3{
+
+
+
+
+    position: relative;
+    top: -1570px;
+    right: -690px;
+
+
+}
+
+
+.getstarted3 h5{
+
+
+
+    position: relative;
+    top: -130px;
+    left: -65px;
+    
+    
+    font-size: 37px;
+    
+    
+    color: rgb(93, 93, 93);
+    
+
+}
+
+
+.getstarted3 h3{
+
+
+position: relative;
+top: -225px;
+
+
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+
+color: #333;
+
+
+}
+
+.getstarted3 p{
+
+
+position: relative;
+top: -250px;
+
+
+
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+
+
+.backgroundimg{
+position: relative;
+
+top: -1750px;
+
+
+
+}
+
+
+.bottomthing{
+
+
+position: relative;
+top: -2127px;
+
+text-decoration: none;
+
+
+
+
+
+}
+
+.bottomthing ul{
+
+list-style: none;
+    text-transform: none;
+color: #fff;
+list-style-type: none;
+text-decoration: none;
+word-spacing: 3px;
+
+
+
+}
+
+
+.bottomthing li{
+
+list-style: none;
+list-style-type: none;
+text-decoration: none;
+color: #fff;
+
+
+}
+
+
+.bottomthing a{
+
+
+color: #fff;
+    text-decoration: none;
+    
+}
+
+
+.bottomthing h2{
+
+
+position: relative;
+right: -30px;
+top: -10px;
+
+
+
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+
+
+color: #fff;
+}
+
+
+.bottomthing a:hover{
+
+
+color: red;
+
+
+}
+
+
+
+.bottomthing1{
+
+
+position: relative;
+top: -2335px;
+right: -200px;
+
+}
+
+
+
+.bottomthing1 ul{
+
+text-decoration: none;
+text-overflow: none;
+
+list-style-type: none;
+
+
+}
+
+
+.bottomthing1 h2{
+
+position: relative;
+top: -5px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    
+    
+    color: #fff;
+
+}
+
+
+.bottomthing1 a{
+
+color: #fff;
+list-style-type: none;
+list-style: none;
+text-decoration: none;
+
+
+}
+
+
+.bottomthing1 a:hover{
+
+color: red;
+
+
+}
+
+
+.bottomthing2{
+
+position: relative;
+top: -2535px;
+right: -400px;
+
+
+
+}
+
+.bottomthing2 a{
+
+position: relative;
+left: -30px;
+
+    color: #fff;
+
+    list-style-type: none;
+    text-decoration: none;
+
+}
+
+
+.bottomthing2 ul{
+
+
+list-style: none;
+text-decoration: none;
+
+}
+
+.bottomthing2 li{
+
+
+text-decoration: none;
+
+
+}
+
+.bottomthing2 h2{
+position: relative;
+top: -10px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    
+    
+    color: #fff;
+
+}
+
+
+.bottomthing2 a:hover{
+
+
+
+    color: red;
+}
+
+
+
+.socials h2{
+position: relative;
+top: -2745px;
+right: -1100px;
+
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #fff;
+
+
+
+}
